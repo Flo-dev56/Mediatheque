@@ -1,0 +1,14 @@
+[ {
+  "support" : "mp3",
+  "annee" : "1999-11-21",
+  "auteur" : {
+    "nom" : "test",
+    "prenom" : "test"
+  },
+  "chemin" : "src/main/resources/musique/monfichier.mp3",
+  "duree" : 3,
+  "format" : "mp3",
+  "nom" : "monfichier",
+  "quantite" : 1,
+  "taille" : 3.0
+} ]
